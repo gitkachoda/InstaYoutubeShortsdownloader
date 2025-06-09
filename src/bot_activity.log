@@ -1,0 +1,335 @@
+2025-06-10 01:25:11,040 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.20:5000
+2025-06-10 01:25:11,040 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-10 01:25:11,665 - INFO - 🚀 Bot started and listening for messages.
+2025-06-10 01:25:12,207 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getMe "HTTP/1.1 200 OK"
+2025-06-10 01:25:12,373 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-10 01:25:12,376 - INFO - Scheduler started
+2025-06-10 01:25:12,376 - INFO - Application started
+2025-06-10 01:25:12,854 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:25:12,855 - INFO - New Request: [User ID: 6552591095] [Chat ID: 6552591095] [Message: adasd]
+2025-06-10 01:25:12,855 - WARNING - Invalid Link: adasd from User 6552591095
+2025-06-10 01:25:13,198 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/sendMessage "HTTP/1.1 200 OK"
+2025-06-10 01:25:13,199 - INFO - New Request: [User ID: 6552591095] [Chat ID: 6552591095] [Message: https://www.facebook.com/reel/123456789012345]
+2025-06-10 01:25:13,564 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/sendMessage "HTTP/1.1 200 OK"
+2025-06-10 01:25:13,565 - INFO - Downloading video: https://www.facebook.com/reel/123456789012345 for User 6552591095
+2025-06-10 01:25:13,786 - ERROR - Video download error: [0;31mERROR:[0m 'C:\\Users\\rosha\\Desktop\\IGDownloader-main\\IGDownloader-main\\src\\facebook_cookies.txt' does not look like a Netscape format cookies file
+2025-06-10 01:25:13,786 - ERROR - Download Error for 6552591095: Video download failed or file doesn't exist.
+2025-06-10 01:25:14,150 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/sendMessage "HTTP/1.1 200 OK"
+2025-06-10 01:25:23,015 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:25:33,199 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:25:40,674 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:25:40,675 - INFO - New Request: [User ID: 6552591095] [Chat ID: 6552591095] [Message: https://www.facebook.com/share/r/1ZHdXeF7ed/]
+2025-06-10 01:25:41,499 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/sendMessage "HTTP/1.1 200 OK"
+2025-06-10 01:25:41,500 - INFO - Downloading video: https://www.facebook.com/share/r/1ZHdXeF7ed/ for User 6552591095
+2025-06-10 01:25:41,886 - ERROR - Video download error: [0;31mERROR:[0m 'C:\\Users\\rosha\\Desktop\\IGDownloader-main\\IGDownloader-main\\src\\facebook_cookies.txt' does not look like a Netscape format cookies file
+2025-06-10 01:25:41,886 - ERROR - Download Error for 6552591095: Video download failed or file doesn't exist.
+2025-06-10 01:25:42,270 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/sendMessage "HTTP/1.1 200 OK"
+2025-06-10 01:25:50,844 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:25:52,845 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:25:52,846 - INFO - New Request: [User ID: 6552591095] [Chat ID: 6552591095] [Message: https://www.facebook.com/reels/1ZHdXeF7ed/]
+2025-06-10 01:25:53,546 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/sendMessage "HTTP/1.1 200 OK"
+2025-06-10 01:25:53,547 - INFO - Downloading video: https://www.facebook.com/reels/1ZHdXeF7ed/ for User 6552591095
+2025-06-10 01:25:53,613 - ERROR - Video download error: [0;31mERROR:[0m 'C:\\Users\\rosha\\Desktop\\IGDownloader-main\\IGDownloader-main\\src\\facebook_cookies.txt' does not look like a Netscape format cookies file
+2025-06-10 01:25:53,614 - ERROR - Download Error for 6552591095: Video download failed or file doesn't exist.
+2025-06-10 01:25:53,952 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/sendMessage "HTTP/1.1 200 OK"
+2025-06-10 01:26:03,009 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:26:13,171 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:26:23,343 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:26:33,524 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:26:43,689 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:26:54,086 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:27:05,117 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:27:15,304 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:27:26,173 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:27:39,574 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:27:49,746 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:27:59,956 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:28:10,115 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:28:21,232 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:28:31,396 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:28:43,477 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.20:5000
+2025-06-10 01:28:43,477 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-10 01:28:44,070 - INFO - 🚀 Bot started and listening for messages.
+2025-06-10 01:28:44,698 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getMe "HTTP/1.1 200 OK"
+2025-06-10 01:28:44,873 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-10 01:28:44,874 - INFO - Scheduler started
+2025-06-10 01:28:44,874 - INFO - Application started
+2025-06-10 01:28:55,535 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:29:05,888 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:29:07,445 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:29:07,446 - INFO - New Request: [User ID: 6552591095] [Chat ID: 6552591095] [Message: https://www.facebook.com/share/r/1ZHdXeF7ed/]
+2025-06-10 01:29:08,126 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/sendMessage "HTTP/1.1 200 OK"
+2025-06-10 01:29:08,127 - INFO - Downloading video: https://www.facebook.com/share/r/1ZHdXeF7ed/ for User 6552591095
+2025-06-10 01:29:08,624 - ERROR - Video download error: [0;31mERROR:[0m 'C:\\Users\\rosha\\Desktop\\IGDownloader-main\\IGDownloader-main\\src\\facebook_cookies.txt' does not look like a Netscape format cookies file
+2025-06-10 01:29:08,625 - ERROR - Download Error for 6552591095: Video download failed or file doesn't exist.
+2025-06-10 01:29:08,967 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/sendMessage "HTTP/1.1 200 OK"
+2025-06-10 01:29:17,615 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:29:27,823 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:29:38,041 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:29:49,030 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:29:59,202 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:30:09,365 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:30:19,538 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:30:29,710 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:30:40,400 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:30:40,401 - INFO - Application is stopping. This might take a moment.
+2025-06-10 01:30:40,401 - INFO - Scheduler has been shut down
+2025-06-10 01:30:40,423 - INFO - Application.stop() complete
+2025-06-10 01:43:32,023 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.20:5000
+2025-06-10 01:43:32,023 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-10 01:43:32,613 - INFO - 🚀 Bot started and listening for messages.
+2025-06-10 01:43:33,177 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getMe "HTTP/1.1 200 OK"
+2025-06-10 01:43:33,344 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-10 01:43:33,345 - INFO - Scheduler started
+2025-06-10 01:43:33,345 - INFO - Application started
+2025-06-10 01:43:42,113 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:43:42,114 - INFO - New Request: [User ID: 6552591095] [Chat ID: 6552591095] [Message: https://www.facebook.com/share/r/1ZHdXeF7ed/]
+2025-06-10 01:43:42,791 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/sendMessage "HTTP/1.1 200 OK"
+2025-06-10 01:43:42,792 - INFO - Downloading video: https://www.facebook.com/share/r/1ZHdXeF7ed/ for User 6552591095
+2025-06-10 01:43:49,639 - ERROR - Video download error: [0;31mERROR:[0m You have requested merging of multiple formats but ffmpeg is not installed. Aborting due to --abort-on-error
+2025-06-10 01:43:49,639 - ERROR - Download Error for 6552591095: Video download failed or file doesn't exist.
+2025-06-10 01:43:50,307 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/sendMessage "HTTP/1.1 200 OK"
+2025-06-10 01:43:52,280 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:44:02,452 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:44:12,625 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:44:14,421 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:44:14,422 - INFO - New Request: [User ID: 6552591095] [Chat ID: 6552591095] [Message: https://www.facebook.com/share/r/1ZHdXeF7ed/]
+2025-06-10 01:44:15,119 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/sendMessage "HTTP/1.1 200 OK"
+2025-06-10 01:44:15,120 - INFO - Downloading video: https://www.facebook.com/share/r/1ZHdXeF7ed/ for User 6552591095
+2025-06-10 01:44:21,074 - ERROR - Video download error: [0;31mERROR:[0m You have requested merging of multiple formats but ffmpeg is not installed. Aborting due to --abort-on-error
+2025-06-10 01:44:21,075 - ERROR - Download Error for 6552591095: Video download failed or file doesn't exist.
+2025-06-10 01:44:21,777 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/sendMessage "HTTP/1.1 200 OK"
+2025-06-10 01:44:24,599 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:44:34,782 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:44:44,948 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:44:55,113 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:45:05,279 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:45:15,446 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:45:25,611 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:45:35,778 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:45:45,979 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:45:56,146 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:46:06,323 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:46:16,487 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:46:26,653 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:46:36,826 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:46:46,995 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:46:57,162 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:47:07,352 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:47:17,532 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:47:27,705 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:47:37,907 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:47:48,071 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:47:58,245 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:48:08,453 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:48:18,652 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:48:28,821 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:48:39,001 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:48:49,650 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:48:59,848 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:49:10,014 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:49:20,185 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:49:30,357 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:49:40,531 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:49:50,714 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:50:00,879 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:50:11,053 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:50:21,211 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:50:31,400 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:50:41,561 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:50:51,726 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:51:01,896 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:51:12,069 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:51:22,235 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:51:32,412 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:51:42,582 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:51:52,745 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:52:02,917 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:52:13,090 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:52:23,257 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:52:33,422 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:52:43,602 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:53:15,605 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.20:5000
+2025-06-10 01:53:15,605 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-10 01:53:16,194 - INFO - 🚀 Bot started and listening for messages.
+2025-06-10 01:53:16,760 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getMe "HTTP/1.1 200 OK"
+2025-06-10 01:53:16,925 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-10 01:53:16,925 - INFO - Scheduler started
+2025-06-10 01:53:16,926 - INFO - Application started
+2025-06-10 01:53:23,638 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:53:23,639 - INFO - New Request: [User ID: 6552591095] [Chat ID: 6552591095] [Message: https://www.facebook.com/share/r/1ZHdXeF7ed/]
+2025-06-10 01:53:24,390 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/sendMessage "HTTP/1.1 200 OK"
+2025-06-10 01:53:24,391 - INFO - Downloading video: https://www.facebook.com/share/r/1ZHdXeF7ed/ for User 6552591095
+2025-06-10 01:53:32,300 - ERROR - Download Error for 6552591095: Video download failed or file doesn't exist.
+2025-06-10 01:53:32,985 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/sendMessage "HTTP/1.1 200 OK"
+2025-06-10 01:53:33,802 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:53:43,961 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:53:54,122 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:54:04,282 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:54:14,480 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:54:24,746 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:54:34,911 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:54:45,069 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:54:55,227 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:55:05,391 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:55:15,573 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:55:25,780 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:55:26,199 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:55:26,201 - INFO - New Request: [User ID: 6552591095] [Chat ID: 6552591095] [Message: https://youtube.com/shorts/-BCMiL1xRME?si=jwsFyS1TBhJ82vWJ]
+2025-06-10 01:55:26,971 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/sendMessage "HTTP/1.1 200 OK"
+2025-06-10 01:55:26,973 - INFO - Downloading video: https://youtube.com/shorts/-BCMiL1xRME?si=jwsFyS1TBhJ82vWJ for User 6552591095
+2025-06-10 01:55:48,284 - ERROR - Download Error for 6552591095: Video download failed or file doesn't exist.
+2025-06-10 01:55:48,286 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:55:48,977 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/sendMessage "HTTP/1.1 200 OK"
+2025-06-10 01:55:58,452 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:56:08,620 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:56:18,825 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:56:28,992 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:56:39,163 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:56:49,331 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:56:50,601 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:56:50,602 - INFO - New Request: [User ID: 6552591095] [Chat ID: 6552591095] [Message: https://www.instagram.com/reel/DKpRE3LTapn/?utm_source=ig_web_copy_link]
+2025-06-10 01:56:51,252 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/sendMessage "HTTP/1.1 200 OK"
+2025-06-10 01:56:51,253 - INFO - Downloading video: https://www.instagram.com/reel/DKpRE3LTapn/?utm_source=ig_web_copy_link for User 6552591095
+2025-06-10 01:57:00,555 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/sendVideo "HTTP/1.1 200 OK"
+2025-06-10 01:57:00,556 - INFO - Video sent successfully to 6552591095
+2025-06-10 01:57:00,771 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:57:00,939 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/deleteMessage "HTTP/1.1 200 OK"
+2025-06-10 01:57:10,930 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:57:21,091 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:57:31,252 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:57:41,414 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:57:51,581 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:58:01,740 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:58:11,903 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:58:22,110 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:58:32,277 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:58:42,443 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:58:52,604 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:59:02,769 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:59:25,188 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.20:5000
+2025-06-10 01:59:25,190 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-10 01:59:26,269 - INFO - 🚀 Bot started and listening for messages.
+2025-06-10 01:59:27,208 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getMe "HTTP/1.1 200 OK"
+2025-06-10 01:59:27,416 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-10 01:59:27,418 - INFO - Scheduler started
+2025-06-10 01:59:27,418 - INFO - Application started
+2025-06-10 01:59:38,110 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:59:48,344 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 01:59:58,513 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 02:00:04,720 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 02:00:04,721 - INFO - New Request: [User ID: 6552591095] [Chat ID: 6552591095] [Message: https://www.facebook.com/share/r/1Hw5xWkXZY/]
+2025-06-10 02:00:05,481 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/sendMessage "HTTP/1.1 200 OK"
+2025-06-10 02:00:05,481 - INFO - Downloading video: https://www.facebook.com/share/r/1Hw5xWkXZY/ for User 6552591095
+2025-06-10 02:00:16,424 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 02:00:19,688 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/sendVideo "HTTP/1.1 200 OK"
+2025-06-10 02:00:19,689 - INFO - Video sent successfully to 6552591095
+2025-06-10 02:00:20,017 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/deleteMessage "HTTP/1.1 200 OK"
+2025-06-10 02:00:26,596 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 02:00:36,804 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 02:00:46,246 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 02:00:46,247 - INFO - New Request: [User ID: 6552591095] [Chat ID: 6552591095] [Message: https://www.facebook.com/share/r/1AgUgoGzBZ/]
+2025-06-10 02:00:46,943 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/sendMessage "HTTP/1.1 200 OK"
+2025-06-10 02:00:46,944 - INFO - Downloading video: https://www.facebook.com/share/r/1AgUgoGzBZ/ for User 6552591095
+2025-06-10 02:00:56,428 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 02:00:57,923 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/sendVideo "HTTP/1.1 200 OK"
+2025-06-10 02:00:57,923 - INFO - Video sent successfully to 6552591095
+2025-06-10 02:00:58,248 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/deleteMessage "HTTP/1.1 200 OK"
+2025-06-10 02:01:06,601 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 02:01:16,780 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 02:01:28,081 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 02:01:38,283 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 02:01:48,480 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 02:01:48,663 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 02:01:48,664 - INFO - New Request: [User ID: 6552591095] [Chat ID: 6552591095] [Message: https://www.facebook.com/share/r/15c9LM8Hvq/]
+2025-06-10 02:01:49,770 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/sendMessage "HTTP/1.1 200 OK"
+2025-06-10 02:01:49,771 - INFO - Downloading video: https://www.facebook.com/share/r/15c9LM8Hvq/ for User 6552591095
+2025-06-10 02:01:58,832 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 02:02:00,774 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/sendVideo "HTTP/1.1 200 OK"
+2025-06-10 02:02:00,775 - INFO - Video sent successfully to 6552591095
+2025-06-10 02:02:01,099 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/deleteMessage "HTTP/1.1 200 OK"
+2025-06-10 03:01:44,690 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.20:5000
+2025-06-10 03:01:44,691 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-10 03:01:45,266 - INFO - 🚀 Bot started and listening for messages.
+2025-06-10 03:01:45,840 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getMe "HTTP/1.1 200 OK"
+2025-06-10 03:01:46,002 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-10 03:01:46,004 - INFO - Scheduler started
+2025-06-10 03:01:46,004 - INFO - Application started
+2025-06-10 03:01:56,483 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 03:02:06,636 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 03:02:16,793 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 03:02:19,022 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 03:02:19,024 - INFO - New Request: [User ID: 6552591095] [Chat ID: 6552591095] [Message: https://www.facebook.com/share/v/15LW182ZRz/]
+2025-06-10 03:02:19,705 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/sendMessage "HTTP/1.1 200 OK"
+2025-06-10 03:02:19,706 - INFO - Downloading video: https://www.facebook.com/share/v/15LW182ZRz/ for User 6552591095
+2025-06-10 03:02:29,182 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 03:02:33,004 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/sendVideo "HTTP/1.1 200 OK"
+2025-06-10 03:02:33,006 - INFO - Video sent successfully to 6552591095
+2025-06-10 03:02:33,332 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/deleteMessage "HTTP/1.1 200 OK"
+2025-06-10 03:02:39,355 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 03:02:49,518 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 03:02:51,289 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 03:02:51,290 - INFO - New Request: [User ID: 6552591095] [Chat ID: 6552591095] [Message: https://www.facebook.com/share/r/15ZztVfCdp/]
+2025-06-10 03:02:52,642 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/sendMessage "HTTP/1.1 200 OK"
+2025-06-10 03:02:52,643 - INFO - Downloading video: https://www.facebook.com/share/r/15ZztVfCdp/ for User 6552591095
+2025-06-10 03:03:01,522 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 03:03:02,837 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/sendVideo "HTTP/1.1 200 OK"
+2025-06-10 03:03:02,838 - INFO - Video sent successfully to 6552591095
+2025-06-10 03:03:03,178 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/deleteMessage "HTTP/1.1 200 OK"
+2025-06-10 03:03:11,717 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 03:03:21,898 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 03:03:26,148 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 03:03:26,149 - INFO - New Request: [User ID: 6552591095] [Chat ID: 6552591095] [Message: https://www.instagram.com/reel/DKpWIEdzdwr/?utm_source=ig_web_copy_link]
+2025-06-10 03:03:26,829 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/sendMessage "HTTP/1.1 200 OK"
+2025-06-10 03:03:26,829 - INFO - Downloading video: https://www.instagram.com/reel/DKpWIEdzdwr/?utm_source=ig_web_copy_link for User 6552591095
+2025-06-10 03:03:32,869 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/sendVideo "HTTP/1.1 200 OK"
+2025-06-10 03:03:32,869 - INFO - Video sent successfully to 6552591095
+2025-06-10 03:03:33,190 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/deleteMessage "HTTP/1.1 200 OK"
+2025-06-10 03:03:36,325 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 03:03:44,249 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 03:03:44,250 - INFO - New Request: [User ID: 6552591095] [Chat ID: 6552591095] [Message: https://youtube.com/shorts/cS_jF3--Rlc?si=5aPuDjhYS4pFW0t7]
+2025-06-10 03:03:45,140 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/sendMessage "HTTP/1.1 200 OK"
+2025-06-10 03:03:45,141 - INFO - Downloading video: https://youtube.com/shorts/cS_jF3--Rlc?si=5aPuDjhYS4pFW0t7 for User 6552591095
+2025-06-10 03:04:01,450 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 03:04:04,468 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/sendVideo "HTTP/1.1 200 OK"
+2025-06-10 03:04:04,472 - INFO - Video sent successfully to 6552591095
+2025-06-10 03:04:04,814 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/deleteMessage "HTTP/1.1 200 OK"
+2025-06-10 03:04:11,631 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 03:04:21,799 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 03:04:31,970 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 03:04:42,451 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 03:04:52,619 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 03:05:02,784 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 03:05:12,961 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 03:05:23,129 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 03:05:33,314 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 03:05:43,485 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 03:05:53,659 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 03:06:03,832 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 03:06:13,998 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 03:06:24,159 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 03:06:34,329 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 03:06:44,499 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 03:06:54,664 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 03:07:04,827 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 03:07:15,007 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 03:07:25,180 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
+2025-06-10 03:07:35,339 - INFO - HTTP Request: POST https://api.telegram.org/bot1173977284:AAGFoNhYR29E9O22zGyha6EhBgVziiuTaV4/getUpdates "HTTP/1.1 200 OK"
